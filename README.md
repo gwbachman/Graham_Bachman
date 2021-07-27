@@ -14,7 +14,7 @@
 * Bullet 2 
 
 
-# [Deep Learning Final](https://github.com/gwbachman/Graham_Portfolio/edit/main/README.md)
+# [Deep Learning Final Course Project](https://github.com/gwbachman/Deep_Learning_Final_Project_DSCI_619)
 * Bullet 1
 * Bullet 2 
 
