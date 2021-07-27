@@ -15,6 +15,7 @@
 
 
 # [Deep Learning Final Course Project](https://github.com/gwbachman/Deep_Learning_Final_Project_DSCI_619)
+![](/Images/deep_learning_training_pic.png)
 * Bullet 1
 * Bullet 2 
 
