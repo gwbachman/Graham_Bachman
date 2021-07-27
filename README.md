@@ -4,6 +4,7 @@
 * Bullet 2
 
 # [Spotify - Musical Taste Dashboard](https://github.com/gwbachman/Graham_Portfolio/edit/main/README.md)
+![](/Images/spotify_taste.png)
 * Bullet 1
 * Bullet 2 
 
