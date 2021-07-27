@@ -23,5 +23,5 @@
 * Bullet 1
 * Bullet 2 
 
-#[MLB Historical Game Simulator (2000-2018)](https://github.com/gwbachman/Historical_MLB_Simulator/tree/main)
+# [MLB Historical Game Simulator (2000-2018)](https://github.com/gwbachman/Historical_MLB_Simulator/tree/main)
 ![](/Images/baseball_simulator_scoreboard.png)
