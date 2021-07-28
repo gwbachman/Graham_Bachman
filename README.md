@@ -27,8 +27,8 @@
 
 # [Deep Learning Final Course Project](https://github.com/gwbachman/Deep_Learning_Final_Project_DSCI_619)
 ![](/Images/deep_learning_training_pic.png)
-* Bullet 1
-* Bullet 2 
+* Part 1: Image Classification with CNN (Data Source: https://www.kaggle.com/puneet6060/intel-image-classification)
+* Part 2: Sentiment Analysis with RNN (Data Source: https://www.kaggle.com/hj5992/restaurantreviews)
 
 
 # [MLB Historical Game Simulator](https://github.com/gwbachman/Historical_MLB_Simulator/tree/main)
