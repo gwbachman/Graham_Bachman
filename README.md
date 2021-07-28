@@ -1,4 +1,4 @@
-# [Kaggle - Freesound, General Purpose Audio Tagging Challenge](https://github.com/gwbachman/Graham_Portfolio/blob/main/README.md)
+# [Kaggle - Freesound, General Purpose Audio Tagging Challenge](https://github.com/gwbachman/Freesound-General-Purpose-Audio-Tagging/tree/main)
 ![](/Images/spectrogram_1.png)
 * Problem: Build a general-purpose audio tagging system capable of classifying a diverse range of real-world sounds.
 * Solution: Transform the provided dataset of WAV files into waveform images. Transform the waveform images into spectrogram images. Train several CNN's on the spectrogram image dataset. 
