@@ -13,6 +13,7 @@
 
 
 # [Machine Learning - Predicting AirBnb Prices w/ Neural Nets](https://github.com/gwbachman/Graham_Portfolio/edit/main/README.md)
+![](/Images/airbnb-logo.jpg)
 * Problem: At the time of this project, AirBnb had no tools in place to help owners optimally price their properties (excpet by observing how other nearby properties were priced). Myself and a few other undergraduate students undertook to develop a neural network that could reliably predict the price of a given AirBnB property based on its amentities, location, and other factors. The goal was a proof of concept in how AirBnb could employ machine learning to standardize property pricings across their platform.
 * Solution: 
 * Tools Used: Python (packages include: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, keras, tensorflow)
