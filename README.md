@@ -4,10 +4,11 @@
 * Solution: Transform the provided dataset of WAV files into waveform images. Transform the waveform images into spectrogram images. Train several CNN's on the spectrogram image dataset. 
 * Tools Used: AWS, Python (packages include: keras, tensorflow, librosa, scikit-learn, pandas, matplotlib, and numpy)
 
-# [Spotify - Musical Taste Dashboard](https://github.com/gwbachman/Graham_Portfolio/edit/main/README.md)
+# [Spotify - Musical Taste Dashboard](https://github.com/gwbachman/spotify_listening_profile)
 ![](/Images/spotify_taste.png)
-* Bullet 1
-* Bullet 2 
+* Problem: How can Spotify listeners be profiled to enable smarter and surprising music recommendations that span genres and decades.
+* Solution: Leveraged the Spotify API to create dataset showing several technical metrics for my most listened to songs by year. Brought that dataset into Tableau and developed a visualization to explore my created dataset.
+* Tools Used: Tableau, Python
 
 
 # [Text Mining Final Course Project](https://github.com/gwbachman/Graham_Portfolio/edit/main/README.md)
