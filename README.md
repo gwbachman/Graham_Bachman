@@ -18,7 +18,7 @@
 * Solution: Obtained data from 3rd party source. Cleaned data and conducted exploratory analysis. Preprocessed data for training with a neural network. Built and trained several neural networks, visualized and interpreted results.  
 * Tools: Python (packages include: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, keras, tensorflow)
 
-# [Experimental Design Final Course Project](https://github.com/gwbachman/experimental_design_final_project/blob/main/README.md)
+# [Experimental Design Final Course Project](https://github.com/gwbachman/experimental_design_final_project)
 ![](/Images/Picture3_sas.png)
 * Problem: Determine if a new type of fertilizer has a significant effect on crop yield.
 * Solution: Conducted ANCOVA analysis and interpreted results.
