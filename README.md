@@ -29,6 +29,12 @@
 * Problem: Predicting a buyer's rating and positive or negative recommendation based on their review. 
 * Tools: Python (nltk, spacy, scikit-leaern)
 
+# [](https://github.com/gwbachman/predictive_modeling_dsci_512)
+![]()
+* Problem: Predicting insurance charges based on relevant features of the insured. 
+* Solution: Built several models (SVM, Random Forest, MLR, etc.) and based on their performance submitted a recommendation for the preferred model.
+* Tools: R (libraries included: MASS, caret, ggplot2, lattice, cluster, randomForest and others)
+
 
 # [Deep Learning Final Course Project](https://github.com/gwbachman/Deep_Learning_Final_Project_DSCI_619)
 ![](/Images/deep_learning_training_pic.png)
