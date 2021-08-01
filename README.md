@@ -30,7 +30,7 @@
 * Tools: Python (nltk, spacy, scikit-leaern)
 
 # [](https://github.com/gwbachman/predictive_modeling_dsci_512)
-![]()
+![](/Images/cluster_plot_pred_model.png)
 * Problem: Predicting insurance charges based on relevant features of the insured. 
 * Solution: Built several models (SVM, Random Forest, MLR, etc.) and based on their performance submitted a recommendation for the preferred model.
 * Tools: R (libraries included: MASS, caret, ggplot2, lattice, cluster, randomForest and others)
